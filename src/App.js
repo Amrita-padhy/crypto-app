@@ -6,6 +6,7 @@ import Header from "./components/Header";
 import Home from "./components/Home";
 import Exchanges from "./components/Exchanges";
 import CoinDetails from "./components/CoinDetails";
+import ColorModeSwitcher from "./ColorModeSwitcher";
 function App() {
   return (
     <Router>
